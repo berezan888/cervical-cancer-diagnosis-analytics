@@ -221,13 +221,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-lear
 1. Clone or download the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/berezan888/cervical-cancer-diagnosis-analytics.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd <project-directory>
+cd cervical-cancer-diagnosis-analytics
 ```
 
 3. Install the required dependencies:
